@@ -53,21 +53,22 @@
 <a href="https://twitter.com/roylopezjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roylopezjs" height="30" width="40" /></a>
 <a href="https://codepen.io/thebassplayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thebassplayer" height="30" width="40" /></a>
 </p>
+***
 
 
 <!-- Most used languajes -->
 <p>
   <picture>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebassplayer&show_icons=true&locale=en&layout=compact" alt="thebassplayer" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thebassplayer&show_icons=true&locale=en&layout=compact" alt="thebassplayer" />
   </picture>
 </p>
 <br>
 <!-- Stats -->
-<p>&nbsp;<picture><img align="center" src="https://github-readme-stats.vercel.app/api?username=thebassplayer&show_icons=true&locale=en" alt="thebassplayer" /></picture></p>
+<p>&nbsp;<picture><img src="https://github-readme-stats.vercel.app/api?username=thebassplayer&show_icons=true&locale=en" alt="thebassplayer" /></picture></p>
 <br>
 <!-- Codewars -->
 <div>
   <picture>
-    <img align="left" src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
+    <img src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
   </picture>
 </div>

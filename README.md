@@ -56,13 +56,7 @@
 <a href="https://codepen.io/thebassplayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thebassplayer" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Codewars Geek</h3>
-<!-- Codewars -->
-<div>
-  <picture>
-    <img align="left" src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
-  </picture>
-</div>
+
 <!-- Most used languajes -->
 <p>
   <picture>
@@ -71,3 +65,9 @@
 </p>
 <!-- Stats -->
 <p>&nbsp;<picture><img align="center" src="https://github-readme-stats.vercel.app/api?username=thebassplayer&show_icons=true&locale=en" alt="thebassplayer" /></picture></p>
+<!-- Codewars -->
+<div>
+  <picture>
+    <img align="left" src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
+  </picture>
+</div>

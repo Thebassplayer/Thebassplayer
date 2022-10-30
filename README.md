@@ -53,8 +53,7 @@
 <a href="https://twitter.com/roylopezjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roylopezjs" height="30" width="40" /></a>
 <a href="https://codepen.io/thebassplayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thebassplayer" height="30" width="40" /></a>
 </p>
-***
-
+<br>
 
 <!-- Most used languajes -->
 <p>

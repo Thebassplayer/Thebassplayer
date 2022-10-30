@@ -61,10 +61,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thebassplayer&show_icons=true&locale=en&layout=compact" alt="thebassplayer" />
   </picture>
 </p>
-<br>
 <!-- Stats -->
 <p>&nbsp;<picture><img src="https://github-readme-stats.vercel.app/api?username=thebassplayer&show_icons=true&locale=en" alt="thebassplayer" /></picture></p>
-<br>
 <!-- Codewars -->
 <div>
   <picture>

@@ -58,9 +58,17 @@
 
 <h3 align="left">Codewars Geek</h3>
 <!-- Codewars -->
-<p><picture><img align="left" src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" /></picture></p>
-<h3 align="left">Stats</h3>
+<p>
+  <picture>
+    <img align="left" src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
+  </picture>
+</p>
+***
 <!-- Most used languajes -->
-<p><picture><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebassplayer&show_icons=true&locale=en&layout=compact" alt="thebassplayer" /></picture></p>
+<p>
+  <picture>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebassplayer&show_icons=true&locale=en&layout=compact" alt="thebassplayer" />
+  </picture>
+</p>
 <!-- Stats -->
 <p>&nbsp;<picture><img align="center" src="https://github-readme-stats.vercel.app/api?username=thebassplayer&show_icons=true&locale=en" alt="thebassplayer" /></picture></p>

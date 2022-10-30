@@ -17,36 +17,37 @@
       alt="html5" width="40" height="40" />
     </picture>
     <!-- CSS -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3" width="40" height="40" />
+    <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3" width="40" height="40" /></picture>
     <!-- Javascript -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />
+    <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /></picture>
     <!-- React -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" />
+    <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /></picture>
     <!-- Node.js -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" style="background-color: #fff;" />
+    <picture> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" style="background-color: #fff;" /></picture>
     <!-- Git -->
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <picture><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></picture>
     <!-- Webpack -->
-    <img
+    <picture><img
       src="./imgs/th.jpeg"
-      alt="webpack" width="40" height="40" />
+      alt="webpack" width="40" height="40" /></picture>
     <!-- Babel -->
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"
-      style="background-color: #fff;" />
+    <picture> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"
+      style="background-color: #fff;" /></picture>
     <!-- Next.js -->
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"
-      style="background-color: #fff;" />
+    <picture>   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"
+      style="background-color: #fff;" /></picture>
     <!-- Photoshop -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop" width="40" height="40" />
+    <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      alt="photoshop" width="40" height="40" /></picture>
     <!-- Tailwind -->
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-      height="40" />
-  </picture>
+    <picture> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
+      height="40" /></picture>
+   
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

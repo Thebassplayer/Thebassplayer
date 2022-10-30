@@ -58,14 +58,14 @@
 <!-- Most used languajes -->
 <p>
   <picture>
-    <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebassplayer&show_icons=true&locale=en&layout=compact" alt="thebassplayer" />
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebassplayer&show_icons=true&locale=en&layout=compact" alt="thebassplayer" />
   </picture>
 </p>
 <!-- Stats -->
-<p>&nbsp;<picture><img align="centre" src="https://github-readme-stats.vercel.app/api?username=thebassplayer&show_icons=true&locale=en" alt="thebassplayer" /></picture></p>
+<p>&nbsp;<picture><img align="middle" src="https://github-readme-stats.vercel.app/api?username=thebassplayer&show_icons=true&locale=en" alt="thebassplayer" /></picture></p>
 <!-- Codewars -->
 <div>
   <picture>
-    <img align="centre" src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
+    <img align="middle" src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
   </picture>
 </div>

@@ -55,6 +55,13 @@
 </p>
 <br>
 
+<!-- Codewars -->
+<p align="center">
+  <picture>
+    <img src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
+  </picture>
+</p>
+
 <!-- Most used languajes -->
 <p align="center">
   <picture>
@@ -62,10 +69,4 @@
   </picture>
 </p>
 <!-- Stats -->
-<p>&nbsp;<picture><img src="https://github-readme-stats.vercel.app/api?username=thebassplayer&show_icons=true&locale=en" alt="thebassplayer" /></picture></p>
-<!-- Codewars -->
-<div>
-  <picture>
-    <img src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
-  </picture>
-</div>
+<palign="center">&nbsp;<picture><img src="https://github-readme-stats.vercel.app/api?username=thebassplayer&show_icons=true&locale=en" alt="thebassplayer" /></picture></palign=>

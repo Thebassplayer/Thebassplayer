@@ -3,7 +3,7 @@
 
 - 🔭 **I’m a freelance front end developer**
 
-- 👨‍💻 All of my projects are available at [**www.roylopez.dev**]([www.roylopez.dev](https://www.roylopez.dev/))
+- 👨‍💻 All of my projects are available at [**www.roylopez.dev**](https://www.roylopez.dev/)
 
 - 📫 How to reach me **roylopezdev@gmail.com**
 

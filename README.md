@@ -19,6 +19,7 @@
 <a href="https://codepen.io/thebassplayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thebassplayer" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Codewars Geek</h3>
 ![https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://www.codewars.com/users/Thebassplayer/badges/large
 )
 

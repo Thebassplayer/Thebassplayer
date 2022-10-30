@@ -58,9 +58,11 @@
 
 <!-- Codewars -->
 <p align="center">
-  <picture>
-    <img src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
-  </picture>
+  <a href="https://www.codewars.com/users/Thebassplayer/">
+    <picture>
+      <img src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
+    </picture>
+  </a>
 </p>
 
 <!-- Most used languajes -->

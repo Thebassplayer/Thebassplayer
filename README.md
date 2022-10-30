@@ -69,4 +69,8 @@
   </picture>
 </p>
 <!-- Stats -->
-<palign="center">&nbsp;<picture><img src="https://github-readme-stats.vercel.app/api?username=thebassplayer&show_icons=true&locale=en" alt="thebassplayer" /></picture></palign=>
+<p align="center">&nbsp;
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=thebassplayer&show_icons=true&locale=en" alt="thebassplayer" />
+  </picture>
+</p>

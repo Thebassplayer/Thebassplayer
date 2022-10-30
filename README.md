@@ -19,9 +19,8 @@
 <a href="https://codepen.io/thebassplayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thebassplayer" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://www.codewars.com/users/Thebassplayer/badges/large
-)" alt="codewars ranking" /> </p>
+![https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://www.codewars.com/users/Thebassplayer/badges/large
+)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebassplayer&show_icons=true&locale=en&layout=compact" alt="thebassplayer" /></p>

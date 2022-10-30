@@ -58,12 +58,11 @@
 
 <h3 align="left">Codewars Geek</h3>
 <!-- Codewars -->
-<p>
+<div>
   <picture>
     <img align="left" src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
   </picture>
-</p>
-***
+</div>
 <!-- Most used languajes -->
 <p>
   <picture>

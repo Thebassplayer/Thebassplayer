@@ -12,8 +12,10 @@
 <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <!-- HTML -->
+    <picture>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" />
+    </picture>
     <!-- CSS -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3" width="40" height="40" />
@@ -44,7 +46,7 @@
     <!-- Tailwind -->
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
       height="40" />
-  </p>
+  </picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -58,7 +58,7 @@
 
 <!-- Codewars -->
 <p align="center">
-  <a href="https://www.codewars.com/users/Thebassplayer/">
+  <a href="https://www.codewars.com/users/Thebassplayer/" target="_blank">
     <picture>
       <img src="https://www.codewars.com/users/Thebassplayer/badges/large" alt="thebassplayer" />
     </picture>

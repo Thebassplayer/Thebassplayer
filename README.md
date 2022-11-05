@@ -27,7 +27,7 @@
       alt="react" width="40" height="40" /></picture>
     <!-- Node.js -->
     <picture> <img src="./imgs/node_logo.png"
-      alt="nodejs" width="40" height="40"/></picture>
+      alt="nodejs" height="40"/></picture>
     <!-- Git -->
     <picture><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></picture>
     <!-- Webpack -->

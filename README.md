@@ -22,6 +22,9 @@
     <!-- Javascript -->
     <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /></picture>
+      <!-- Typescript -->
+    <picture> <img src="./imgs/typescript_logo.png"
+      alt="Typescript" height="40"/></picture>
     <!-- React -->
     <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /></picture>

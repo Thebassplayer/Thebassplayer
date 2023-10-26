@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy Lopez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 **I’m a freelance front end developer**
+- 🔭 **Fullstack developer**
 
 - 👨‍💻 All of my projects are available at [**www.roylopez.dev**](https://www.roylopez.dev/)
 

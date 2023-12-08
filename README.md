@@ -48,7 +48,7 @@
     <picture> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
       height="40" /></picture>
     <!-- Redux -->
-    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="40"
+    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="50"
       height="40" /></picture>
    
 <hr>

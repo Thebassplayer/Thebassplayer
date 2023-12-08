@@ -47,6 +47,9 @@
     <!-- Tailwind -->
     <picture> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
       height="40" /></picture>
+    <!-- Redux -->
+    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="40"
+      height="40" /></picture>
    
 <hr>
 
@@ -54,7 +57,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/roylopezdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roylopezdev" height="30" width="40" /></a>
 <a href="https://twitter.com/roylopezdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roylopezdev" height="30" width="40" /></a>
-<a href="https://codepen.io/thebassplayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thebassplayer" height="30" width="40" /></a>
+<a href="https://codepen.io/thebassplayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thebassplayer"  height="30" width="40" /></a>
 </p>
 
 <hr>

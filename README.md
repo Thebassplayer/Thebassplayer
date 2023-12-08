@@ -53,6 +53,10 @@
       <!-- AWS -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40"
       height="40" /></picture>
+       <!-- MongoDB -->
+    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" alt="mongoDB" width="40"
+      height="40" /></picture>
+      
    
 <hr>
 

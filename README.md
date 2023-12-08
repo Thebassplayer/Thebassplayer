@@ -50,6 +50,9 @@
     <!-- Redux -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="50"
       height="40" /></picture>
+      <!-- AWS -->
+    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40"
+      height="40" /></picture>
    
 <hr>
 

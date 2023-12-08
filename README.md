@@ -32,7 +32,7 @@
     <picture> <img src="./imgs/node_logo.png"
       alt="nodejs" height="40"/></picture>
     <!-- Git -->
-    <picture><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></picture>
+    <picture><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="40" /></picture>
     <!-- Webpack -->
     <picture><img
       src="./imgs/th.jpeg"

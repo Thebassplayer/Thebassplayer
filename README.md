@@ -51,10 +51,10 @@
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="50"
       height="40" /></picture>
       <!-- AWS -->
-    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40"
+    <picture> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws"
       height="40" /></picture>
        <!-- MongoDB -->
-    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongoDB" width="60" height="40" /></picture>
+    <picture> <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fmongodb%2Fmongodb-icon.svg&height=40" alt="mongoDB" height="40" /></picture>
     <!-- Goland -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" width="60"
       height="40" /></picture>

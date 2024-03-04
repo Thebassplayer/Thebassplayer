@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **roylopezdev@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/13kKyJccc8-Ps3uJQfa9lEBaya9p56UbD/view?usp=sharing](https://drive.google.com/file/d/14NS8SnTFYT0fdY-qHoEbakSIaSzEGJ6l/view))
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/13kKyJccc8-Ps3uJQfa9lEBaya9p56UbD/view?usp=sharing])
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="left">

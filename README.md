@@ -3,7 +3,9 @@
 
 - 🔭 **Fullstack developer**
 
-- 👨‍💻 All of my projects are available at [**www.roylopez.dev**](https://www.roylopez.dev/)
+- 👨‍💻 All my projects are available at [**www.roylopez.dev**](https://www.roylopez.dev/)
+
+- 🧠 My Blog [**www.persistdev.blog**](https://www.persistdev.blog/)
 
 - 📫 How to reach me **roylopezdev@gmail.com**
 
@@ -55,6 +57,8 @@
       height="40" /></picture>
        <!-- MongoDB -->
     <picture> <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fmongodb%2Fmongodb-icon.svg&height=40" alt="mongoDB" height="40" /></picture>
+      <!-- Sanity -->
+<picture> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanity-logo-svg.svg" alt="Sanity" height="50" /></picture>
     <!-- Goland -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" width="60"
       height="40" /></picture>

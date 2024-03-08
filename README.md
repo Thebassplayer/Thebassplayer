@@ -46,6 +46,9 @@
     <!-- Photoshop -->
     <picture><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
       alt="photoshop" width="40" height="40" /></picture>
+    <!-- Figma -->
+    <picture><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+      alt="Figma" width="40" height="40" /></picture>
     <!-- Tailwind -->
     <picture> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
       height="40" /></picture>
@@ -58,8 +61,8 @@
        <!-- MongoDB -->
     <picture> <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fmongodb%2Fmongodb-icon.svg&height=40" alt="mongoDB" height="40" /></picture>
       <!-- Sanity -->
-<picture> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanity-logo-svg.svg" alt="Sanity" height="50" /></picture>
-    <!-- Goland -->
+    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanity-logo-svg.svg" alt="Sanity" height="50" /></picture>
+      <!-- Goland -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" width="60"
       height="40" /></picture>
       

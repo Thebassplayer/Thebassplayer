@@ -44,7 +44,7 @@
     <!-- Next.js -->
     <picture>   <img src="./imgs/next_logo.png" alt="nextjs" width="40" height="40"/></picture>
     <!-- Photoshop -->
-    <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+    <picture><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
       alt="photoshop" width="40" height="40" /></picture>
     <!-- Tailwind -->
     <picture> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
@@ -53,7 +53,7 @@
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="50"
       height="40" /></picture>
       <!-- AWS -->
-    <picture> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws"
+    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws"
       height="40" /></picture>
        <!-- MongoDB -->
     <picture> <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fmongodb%2Fmongodb-icon.svg&height=40" alt="mongoDB" height="40" /></picture>

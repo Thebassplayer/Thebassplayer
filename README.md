@@ -60,10 +60,15 @@
       height="40" /></picture>
        <!-- MongoDB -->
     <picture> <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fmongodb%2Fmongodb-icon.svg" height=40" alt="mongoDB" height="40" /></picture>
+    <!-- SQL -->
+    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" height=40" alt="SQL" height="40" /></picture>
       <!-- Sanity -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanity-logo-svg.svg" alt="Sanity" height="50" /></picture>
       <!-- Goland -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" width="60"
+      height="40" /></picture>
+      <!-- Gorrilla -->
+    <picture> <img src="https://private-user-images.githubusercontent.com/53367916/255967639-d92caabf-98e0-473e-bfbf-ab554ba435e5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA3NzI1ODIsIm5iZiI6MTcxMDc3MjI4MiwicGF0aCI6Ii81MzM2NzkxNi8yNTU5Njc2MzktZDkyY2FhYmYtOThlMC00NzNlLWJmYmYtYWI1NTRiYTQzNWU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE4VDE0MzEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhOTBmYjliNmZjYjA2YmQwMTM2YTIyZWE2Yjc4NzdmMDU0NDlmOTljNzVlZjRjNGIzOWUyYzMwOTY0YjgwN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ahCy_gqT1tCGFZYAQoslxWrD490g0_OtQz1IylzhQqk" alt="Gorilla"
       height="40" /></picture>
        <!-- Docker -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="40" /></picture>

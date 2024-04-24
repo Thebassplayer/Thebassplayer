@@ -67,12 +67,13 @@
       <!-- Goland -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" width="60"
       height="40" /></picture>
-      <!-- Gorrilla -->
-    <picture> <img src="https://private-user-images.githubusercontent.com/53367916/255967639-d92caabf-98e0-473e-bfbf-ab554ba435e5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA3NzI1ODIsIm5iZiI6MTcxMDc3MjI4MiwicGF0aCI6Ii81MzM2NzkxNi8yNTU5Njc2MzktZDkyY2FhYmYtOThlMC00NzNlLWJmYmYtYWI1NTRiYTQzNWU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE4VDE0MzEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhOTBmYjliNmZjYjA2YmQwMTM2YTIyZWE2Yjc4NzdmMDU0NDlmOTljNzVlZjRjNGIzOWUyYzMwOTY0YjgwN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ahCy_gqT1tCGFZYAQoslxWrD490g0_OtQz1IylzhQqk" alt="Gorilla"
-      height="40" /></picture>
        <!-- Docker -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="40" /></picture>
-
+     <!-- Cypress -->
+    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress" height="40" /></picture>
+     <!-- Jest -->
+    <picture> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" height="40" /></picture>
+    
       
       
    

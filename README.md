@@ -75,9 +75,9 @@
      <!-- Jest -->
     <picture> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" height="40" /></picture>
          <!-- PHP -->
-    <picture> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="PHP" height="40" /></picture>
+    <picture> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" height="40" /></picture>
         <!-- Laravel -->
-    <picture> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Laravel" height="40" /></picture>
+    <picture> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" height="40" /></picture>
     
     
       

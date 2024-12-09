@@ -36,6 +36,8 @@
       alt="nodejs" height="40"/></picture>
     <!-- Git -->
     <picture><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="40" /></picture>
+      <!-- Vite -->
+    <picture><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="60" height="40" /></picture>
     <!-- Webpack -->
     <picture><img
       src="./imgs/th.jpeg"

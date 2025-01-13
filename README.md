@@ -72,8 +72,10 @@
       height="40" /></picture>
        <!-- Docker -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="40" /></picture>
+      <!-- Kubernetes -->
+    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="40" /></picture>
      <!-- Cypress -->
-    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress" height="40" /></picture>
+    <picture> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Cypress" height="40" /></picture>
      <!-- Jest -->
     <picture> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest" height="40" /></picture>
          <!-- PHP -->

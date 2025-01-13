@@ -73,7 +73,7 @@
        <!-- Docker -->
     <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="40" /></picture>
       <!-- Kubernetes -->
-    <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="40" /></picture>
+    <picture> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="40" /></picture>
      <!-- Cypress -->
     <picture> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Cypress" height="40" /></picture>
      <!-- Jest -->

@@ -3,7 +3,9 @@
 
 - 🔭 **Fullstack developer**
 
-- 👨‍💻 All my projects are available at [**www.roylopez.dev**](https://www.roylopez.dev/)
+- Co-founder at [**kiosqueli.app**](https://www.kiosqueli.app/)
+
+- Backend developer at [**Fonto**](https://www.fontoxml.com/fonto-xml-editor/)
 
 - 🧠 My Blog [**www.persistdev.blog**](https://www.persistdev.blog/)
 
